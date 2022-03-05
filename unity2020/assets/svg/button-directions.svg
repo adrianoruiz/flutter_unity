@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Grupo_16098" data-name="Grupo 16098" transform="translate(-12 -41)">
+    <g id="compass-svgrepo-com" transform="translate(-0.747 32.905)">
+      <g id="Grupo_16065" data-name="Grupo 16065" transform="translate(14.286)">
+        <path id="Caminho_8995" data-name="Caminho 8995" d="M103.918,164.195l-22.28,5.1L97.2,152.552l1,6.662Z" transform="translate(-57.869 -98.716)" fill="#f9ba48"/>
+        <path id="Caminho_8996" data-name="Caminho 8996" d="M150.467,128.912l22.28-5.1-15.558,16.744-1-6.661Z" transform="translate(-102.408 -80.117)" fill="#f9ba48"/>
+        <path id="Caminho_8999" data-name="Caminho 8999" d="M129.131,133.333a10.083,10.083,0,1,0,10.083,10.083A10.093,10.093,0,0,0,129.131,133.333Zm0,16.8a6.722,6.722,0,1,1,6.722-6.722A6.729,6.729,0,0,1,129.131,150.138Z" transform="translate(-82.077 -86.279)" fill="#fcfcfd"/>
+        <path id="Caminho_9000" data-name="Caminho 9000" d="M131.932,76.139l5.823,8.734h4.26V71.429h-3.361v8.733l-5.823-8.733h-4.26V84.873h3.361Z" transform="translate(-88.239 -46.221)" fill="#fcfcfd"/>
+        <path id="Caminho_9001" data-name="Caminho 9001" d="M216.525,146.218v-3.361H204.762V156.3h11.763V152.94h-8.4V151.26h8.4V147.9h-8.4v-1.681Z" transform="translate(-137.542 -92.442)" fill="#fcfcfd"/>
+        <path id="Caminho_9002" data-name="Caminho 9002" d="M137.814,214.286h-5.042a4.2,4.2,0,1,0,0,8.4h5.042a.84.84,0,1,1,0,1.681h-5.042a.843.843,0,0,1-.84-.84v-.84h-3.361v.84a4.2,4.2,0,0,0,4.2,4.2h5.042a4.2,4.2,0,1,0,0-8.4h-5.042a.84.84,0,0,1,0-1.681h5.042a.843.843,0,0,1,.84.84v.84h3.361v-.84A4.2,4.2,0,0,0,137.814,214.286Z" transform="translate(-88.239 -138.664)" fill="#fcfcfd"/>
+        <path id="Caminho_9003" data-name="Caminho 9003" d="M63.273,148.622l-1.035-6.2H57.711l-1.035,6.2-.919-6.441-3.327.477,1.887,13.205h4.561l1.1-6.582,1.1,6.582h4.561l1.887-13.205-3.327-.477Z" transform="translate(-38.968 -92.005)" fill="#fcfcfd"/>
+      </g>
+    </g>
+    <path id="Elipse_19" data-name="Elipse 19" d="M48,3A45.013,45.013,0,0,0,30.485,89.465a45.012,45.012,0,0,0,35.03-82.93A44.715,44.715,0,0,0,48,3m0-3A48,48,0,1,1,0,48,48,48,0,0,1,48,0Z" transform="translate(12 41)" fill="#fff"/>
+  </g>
+</svg>
