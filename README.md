@@ -1,7 +1,8 @@
 # flutter_unity
 
-Essa descrição abaixo é no build.grade que vai dentro do plugin
+Essa descrição abaixo é no build.grade que vai dentro do plugin(flutter_unity_widget)
 
+```
 dependencies {
    // implementation project(':unityLibrary')
    // implementation(name: 'unity-classes', ext:'jar')
@@ -12,7 +13,7 @@ dependencies {
 
 ...
 }
-
+```
 ------
 
 
